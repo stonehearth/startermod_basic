@@ -1,0 +1,23 @@
+{
+   "components" : {
+      "unit_info": {
+         "name": "Wooden Piggy Bank",
+         "description": "Reminder to be responsible.",
+         "icon" : "file(piggy_bank.png)"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wooden_piggy_bank.qb)"
+            ]
+         }
+      },
+      "stonehearth:material" : {
+         "tags" : "toy crafted"
+      },
+      "mob" : {
+         "model_origin" : { "x": -0.05, "y": 0, "z": 0.05 },
+         "region_origin" : { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   }
+}
