@@ -1,7 +1,9 @@
 # startermod_basic
 A most basic starter mod to get you going!
 
-Instructions for use: Download the mod. Unzip to your stonehearth mods directory, as a peer to stonehearth.smod and radiant.smod. 
+Instructions for use: Download the mod. Unzip to your stonehearth mods directory, as a peer to stonehearth.smod and radiant.smod. Make sure the folder is named startermod_basic, not startermod_basic-master. 
+
+Inside the startermod_basic folder, you should see a manifest.json file, and 2 folders, one called entities and one called recipes. 
 
 The mod adds two new objects to the world, and a new recipe to the carpenter, so that you can see at least one of the objects in the world. 
 
