@@ -13,7 +13,7 @@
          }
       },
       "stonehearth:material" : {
-         "tags" : "toy crafted"
+         "tags" : "toy decoration crafted"
       },
       "mob" : {
          "model_origin" : { "x": -0.05, "y": 0, "z": 0.05 },
