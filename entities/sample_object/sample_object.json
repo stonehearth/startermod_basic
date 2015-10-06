@@ -3,7 +3,7 @@
    "components" : {
       "unit_info": {
          "name": "Sample Object",
-         "description": "Sample Description.",
+         "description": "Sample description.",
          "icon" : "file(sample.png)"
       },
       "model_variants": {
