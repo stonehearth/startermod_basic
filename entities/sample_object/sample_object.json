@@ -1,17 +1,19 @@
 {
    "type": "entity",
-   "components" : {
-      "unit_info": {
-         "name": "Sample Object",
-         "description": "Sample description.",
-         "icon" : "file(sample.png)"
-      },
+   "components": {
       "model_variants": {
          "default": {
             "models": [
                "file(sample.qb)"
             ]
          }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "description": "Sample description.",
+         "icon": "file(sample.png)",
+         "display_name": "Sample Object"
       }
    }
 }

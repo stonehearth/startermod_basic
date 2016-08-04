@@ -1,11 +1,6 @@
 {
    "mixins": "stonehearth:mixins:placed_object",
    "components": {
-      "unit_info": {
-         "name": "Wooden Piggy Bank",
-         "description": "Reminder to be responsible.",
-         "icon": "file(piggy_bank.png)"
-      },
       "model_variants": {
          "default": {
             "models": [
@@ -13,12 +8,17 @@
             ]
          }
       },
-      "stonehearth:material": {
-         "tags": "toy decoration crafted stockpile_decoration"
-      },
       "mob": {
          "model_origin": { "x": -0.05, "y": 0, "z": 0.05 },
          "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "description": "Reminder to be responsible.",
+         "icon": "file(piggy_bank.png)",
+         "display_name": "Wooden Piggy Bank",
+         "material_tags": "toy decoration crafted stockpile_decoration"
       }
    }
 }
