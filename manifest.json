@@ -1,7 +1,7 @@
 {
    "info" : {
       "name" : "startermod_basic", 
-      "version" : 2
+      "version" : 3
    },
    "aliases" : {
       "sample_object" : "file(entities/sample_object/sample_object.json)", 
