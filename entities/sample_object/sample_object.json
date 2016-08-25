@@ -11,9 +11,9 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "description": "Sample description.",
+         "description": "i18n(startermod_basic:entities.sample_object.description)",
          "icon": "file(sample.png)",
-         "display_name": "Sample Object"
+         "display_name": "i18n(startermod_basic:entities.sample_object.display_name)"
       }
    }
 }
